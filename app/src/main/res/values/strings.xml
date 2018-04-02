@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticalTest01Var08</string>
+    <string name="play">Play</string>
+    <string name="title_activity_practical_test01_var02_play">PracticalTest01Var02PlayActivity
+    </string>
+    <string name="check">Check</string>
+    <string name="back">Back</string>
+</resources>
